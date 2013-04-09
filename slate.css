@@ -9,6 +9,7 @@
  */
 
 @import url('../bootstrap/fontawesome/css/font-awesome.min.css');
+@import url('../bootstrap/bootstrap-tweaks.css');
 @import url('../../../themes/css/base.css');
 
 .clearfix {
